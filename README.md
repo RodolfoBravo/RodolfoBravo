@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Bravo</h1>
 <h3 align="center">Full Stack programmer, design and development of websites, web, mobile</h3> 
-<h2>I am an Electronic Engineer since I graduated I have specialized in Software development especially in web and mobile applications, I am passionate about creating applications that serve as tools that help companies to facilitate daily and repetitive tasks inside and outside the company.</h2>
-<h2>I have 4 years of experience in front-end and backend development and design using JavaScript and Python, I like to be in constant professional growth to strengthen my skills and knowledge within software development. and desktop applications that help companies and people to have tools for this technological and digital age</h2>
+<h4>I am an Electronic Engineer since I graduated I have specialized in Software development especially in web and mobile applications, I am passionate about creating applications that serve as tools that help companies to facilitate daily and repetitive tasks inside and outside the company.</h4>
+<h4>I have 4 years of experience in front-end and backend development and design using JavaScript and Python, I like to be in constant professional growth to strengthen my skills and knowledge within software development. and desktop applications that help companies and people to have tools for this technological and digital age</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
