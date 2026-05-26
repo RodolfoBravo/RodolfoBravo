@@ -5,16 +5,6 @@
   <p>Specialized in high-performance Web, Mobile, and Digital Automation Systems</p>
 </div>
 
-<!-- Botones de Redes Sociales Estilizados con Border-Radius -->
-<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
-  <a href="https://www.linkedin.com/in/rodolfo-bravo" target="_blank" style="text-decoration: none; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px;" height="35" />
-  </a>
-  <a href="https://fb.com/rodolfo bravo" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="border-radius: 8px;" height="35" />
-  </a>
-</div>
-
 <hr style="border: 1px solid #222; margin: 30px 0;" />
 
 <!-- Sección Sobre Mí -->
